@@ -11,15 +11,38 @@ business intelligence and AI technologies.
 
 ## 👨‍💼 About Me
 
-- 🏦 20+ years of banking and financial services experience
+- 🏦 20+ years of Banking and Financial services experience
 - 📊 Business Analytics and Business Intelligence
+- Project Evaluation
 - 💰 Financial Modelling and Financial Analysis
-- 🏦 Corporate Banking and Project Finance
+- 🏦 Project Finance & Corporate Banking
+- Syndicate Arrangement
+- Portfolio Management
+- Development Banking
+- Refinancing
+- Islamic Finance
 - ⚠️ Credit and Risk Analysis
+- Documentation
+- ⚙️ Civil Engineering Background
+- Site Preparation & Infrastructure Development
+- Project Management
+- Construction Planning
+- Material Scheduling & Resource Allocation
+- Cost Management & Cost Control
+- Tendering & Contractor Management
+- Risk Management
+- Technical Reports
+- Quality Assurance (QA) & Quality Control (QC)
+- Health and Safety Training
+- Project Monitoring & Control
+- Internal & External Stakeholder Engagement
+- Strategic Financial Management
+- Budgets & Variance Analysis
+
 - 🤖 Artificial Intelligence and Machine Learning
 - 📈 Power BI, DAX and Data Visualisation
 - 🐍 Python and SQL
-- ⚙️ Engineering background
+- 
 
 ## 🛠️ Technical Skills
 
