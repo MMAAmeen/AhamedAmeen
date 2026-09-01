@@ -78,22 +78,52 @@ business intelligence and AI technologies.
 
 ## 📊 Featured Projects
 
-### 🏥 Forecast-Informed Staffing Optimisation
-**Emergency Department Workforce Planning in the NHS Midlands Region**
+### 🥇 Forecast-Informed Staffing Optimisation
+#### Emergency Department Workforce Planning in the NHS Midlands Region
 
-A Business Analytics project focused on using forecasting and
-data-driven workforce planning to support Emergency Department
-staffing optimisation.
+**Master's Final Trimester Project | Business Analytics**
 
-**Key Focus Areas:**
-- Demand forecasting
-- Workforce planning
-- Staffing optimisation
+A data-driven healthcare analytics project focused on forecasting
+Emergency Department demand and using analytical insights to support
+workforce planning and staffing optimisation within the NHS Midlands
+Region.
+
+**🎯 Project Objective**
+
+To develop a forecast-informed workforce planning approach that helps
+healthcare decision-makers anticipate Emergency Department demand and
+better align staffing capacity with expected workload.
+
+**📊 Key Focus Areas**
+
+- Emergency Department demand forecasting
+- Workforce planning and staffing optimisation
 - Predictive analytics
-- Data-driven decision making
-- Business intelligence and visualisation
+- Machine learning
+- Data-driven resource allocation
+- Healthcare analytics
+- Business intelligence and data visualisation
+- Evidence-based decision making
 
-🔗 **View Project**
+**🧠 Analytical Approach**
+
+- Exploratory Data Analysis (EDA)
+- Time-series and forecasting models
+- Machine learning models
+- Model evaluation and performance analysis
+- Forecast-informed staffing analysis
+- Business and operational insights
+
+**🛠️ Technologies**
+
+`Python` `SQL` `Power BI` `Forecasting` `Machine Learning`
+
+**💡 Business Value**
+
+The project demonstrates how forecasting, machine learning and
+business intelligence can be combined to support healthcare workforce
+planning, improve resource allocation and enable data-driven
+operational decision-making.
 
 ### 🏦 Predictive Analytics for Non-Performing Advances
 
