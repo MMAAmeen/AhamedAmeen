@@ -13,7 +13,7 @@ business intelligence and AI technologies.
 
 - 🏦 20+ years of Banking and Financial services experience
 - 📊 Business Analytics and Business Intelligence
-- Project Evaluation
+- Project Evaluation & Feasibility Study
 - 💰 Financial Modelling and Financial Analysis
 - 🏦 Project Finance & Corporate Banking
 - Syndicate Arrangement
