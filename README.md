@@ -55,6 +55,23 @@ business intelligence and AI technologies.
 
 ## 📊 Featured Projects
 
+### 🏥 Forecast-Informed Staffing Optimisation
+**Emergency Department Workforce Planning in the NHS Midlands Region**
+
+A Business Analytics project focused on using forecasting and
+data-driven workforce planning to support Emergency Department
+staffing optimisation.
+
+**Key Focus Areas:**
+- Demand forecasting
+- Workforce planning
+- Staffing optimisation
+- Predictive analytics
+- Data-driven decision making
+- Business intelligence and visualisation
+
+🔗 **View Project**
+
 ### 🏦 Predictive Analytics for Non-Performing Advances
 
 A banking analytics project focused on analysing loan performance
@@ -91,8 +108,13 @@ and predicting potential non-performing advances.
 - Strategic Information Systems Planning
 - Research Methods
 
+  **Final Trimester Research Project**
+
+📊 **Forecast-Informed Staffing Optimisation: Emergency Department Workforce Planning in the NHS Midlands Region**
+
 ### M.Sc. – Enviornmental Science
 **Open University of Nawala, Sri Lanka | 2018**
+
 
 ### M.A. – Financial Economics
 **University of Colombo, Sri Lanka | 2011**
