@@ -110,5 +110,5 @@ I am interested in opportunities involving:
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn
-- 💻 GitHub
+- 💼 LinkedIn (www.linkedin.com/in/ahamedameen)
+- 💻 GitHub(https://github.com/MMAAmeen)
