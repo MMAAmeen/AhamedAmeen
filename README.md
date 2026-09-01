@@ -78,13 +78,30 @@ and predicting potential non-performing advances.
 
 ## 🎓 Education
 
-**Master's in Business Informatics – Business Analytics**
+### Master of Business Informatics – Business Analytics | Level 9
+**Yoobee College, Auckland, New Zealand | 2026**
 
-Key areas include:
+**Relevant Areas:**
+- Business Analytics
+- IT Project Management
+- Business Intelligence & Data Warehousing
+- Database Management
+- Information Systems Analysis & Design
+- Business Strategy
+- Strategic Information Systems Planning
+- Research Methods
 
-Business Analytics | Business Intelligence | Database Management |
-Information Systems | Research Methods | IT Project Management |
-Data Analytics
+### M.Sc. – Enviornmental Science
+**Open University of Nawala, Sri Lanka | 2018**
+
+### M.A. – Financial Economics
+**University of Colombo, Sri Lanka | 2011**
+
+### B.Sc. (Engineering) – Civil Engineering
+**University of Moratuwa, Sri Lanka | 2000**
+
+### CIMA (United Kingdom)
+**Completed Final Examination | 2002**
 
 ## 🌱 Currently Developing
 
