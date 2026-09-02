@@ -154,16 +154,17 @@ and predicting potential non-performing advances.
 **Yoobee College, Auckland, New Zealand | 2026**
 
 **Relevant Areas:**
-- Business Analytics
-- IT Project Management
-- Business Intelligence & Data Warehousing
-- Database Management
+- Strategic Information System Planning
 - Information Systems Analysis & Design
-- Business Strategy
-- Strategic Information Systems Planning
+- Database Management Systems
 - Research Methods
-
-  **Final Trimester Research Project**
+- IT Project Management
+- Business Strategy & Direction
+- Business Data Analytics with Visualisation & Decision making
+- Business Intelligence & Data Warehousing
+- Capstone Research Project
+  
+  **Final Trimester Capstone -Research Project**
 
 📊 **Forecast-Informed Staffing Optimisation: Emergency Department Workforce Planning in the NHS Midlands Region**
 
