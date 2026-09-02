@@ -233,7 +233,41 @@ Dissertation submitted in partial fulfilment of the requirement for the Master o
 ### Advance Techniques in Bank Lending (Institute of Bankers Sri Lanka)
 **November 2007**
 
+📚 MBI Academic Portfolio
 
+### MBI800 – Strategic Information Systems Planning
+- Strategic Information System Plan
+- Cultural & Ethical Dimensions of Information Systems
+
+### MBI801 – Information Systems Analysis & Design
+- Information Systems Analysis & Design
+- Information Systems Project Implementation
+
+### MBI802 – Database Management Systems
+- Ethical Database Management & Impact Analysis
+- Database Implementation Review & System Redesign
+
+### MBI803 – Research Methods
+- Research Question Development
+- Critical Research Analysis, Methodology Critique & Research Proposal
+
+### MBI804 – IT Project Management
+- Project Methodology Selection – Case Study
+- Project Methodology Selection – Risk Management Plan
+
+### MBI805B – Business Strategy & Direction
+- Strategic Business Analysis Report
+- Business Strategy & Direction – Spark NZ: Telecommunications & AI Revolution
+
+### MBI806B – Business Data Analytics
+- Predictive Analytics for Non-Performing Advances
+- SmartCare Wearable Dashboard
+
+### MBI807B – Business Intelligence & Data Warehousing
+- Data Management & Analytics Project
+- Warehouse Group Big Data Integration Strategy
+
+💼 Professional Background
 
 ## 🌱 Currently Developing
 
